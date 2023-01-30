@@ -1,0 +1,16 @@
+C:\Users\holde\OneDrive\Documents\INFOTC2040\MidtermProject\bin\Debug\net5.0\MidtermProject.exe
+C:\Users\holde\OneDrive\Documents\INFOTC2040\MidtermProject\bin\Debug\net5.0\MidtermProject.deps.json
+C:\Users\holde\OneDrive\Documents\INFOTC2040\MidtermProject\bin\Debug\net5.0\MidtermProject.runtimeconfig.json
+C:\Users\holde\OneDrive\Documents\INFOTC2040\MidtermProject\bin\Debug\net5.0\MidtermProject.runtimeconfig.dev.json
+C:\Users\holde\OneDrive\Documents\INFOTC2040\MidtermProject\bin\Debug\net5.0\MidtermProject.dll
+C:\Users\holde\OneDrive\Documents\INFOTC2040\MidtermProject\bin\Debug\net5.0\ref\MidtermProject.dll
+C:\Users\holde\OneDrive\Documents\INFOTC2040\MidtermProject\bin\Debug\net5.0\MidtermProject.pdb
+C:\Users\holde\OneDrive\Documents\INFOTC2040\MidtermProject\obj\Debug\net5.0\MidtermProject.csproj.AssemblyReference.cache
+C:\Users\holde\OneDrive\Documents\INFOTC2040\MidtermProject\obj\Debug\net5.0\MidtermProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\holde\OneDrive\Documents\INFOTC2040\MidtermProject\obj\Debug\net5.0\MidtermProject.AssemblyInfoInputs.cache
+C:\Users\holde\OneDrive\Documents\INFOTC2040\MidtermProject\obj\Debug\net5.0\MidtermProject.AssemblyInfo.cs
+C:\Users\holde\OneDrive\Documents\INFOTC2040\MidtermProject\obj\Debug\net5.0\MidtermProject.csproj.CoreCompileInputs.cache
+C:\Users\holde\OneDrive\Documents\INFOTC2040\MidtermProject\obj\Debug\net5.0\MidtermProject.dll
+C:\Users\holde\OneDrive\Documents\INFOTC2040\MidtermProject\obj\Debug\net5.0\ref\MidtermProject.dll
+C:\Users\holde\OneDrive\Documents\INFOTC2040\MidtermProject\obj\Debug\net5.0\MidtermProject.pdb
+C:\Users\holde\OneDrive\Documents\INFOTC2040\MidtermProject\obj\Debug\net5.0\MidtermProject.genruntimeconfig.cache
